@@ -7,6 +7,7 @@ Player vs. Player Mode: Play against a friend locally on the same device. Take t
 
 # Instructions:
 Clone the repository to your local machine.
+
 Install Python and Pygame if you haven't already.
 Run the main.py file to start the game.
 Choose your preferred game mode and enjoy playing!
